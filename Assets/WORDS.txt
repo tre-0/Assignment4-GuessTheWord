@@ -1,0 +1,12 @@
+Yes
+No
+Splendid
+Horrendous
+Beautiful
+Ugly
+Evil
+Good
+Zeroes
+Hundreds
+Kind
+Stoic

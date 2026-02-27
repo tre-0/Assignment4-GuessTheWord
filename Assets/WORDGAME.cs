@@ -43,7 +43,7 @@ List<string> guessedList = new List<string>();
         //Loads the text file from the resources folder
         if (wordList == null)
         {
-            Debug.LogError("CANNOT FIND FILE. PLAESE CHECK IF TEXTASSET wordList HAS A TEXT FILE.");
+            Debug.Log("CANNOT FIND FILE. PLAESE CHECK IF TEXTASSET wordList HAS A TEXT FILE.");
         }
         //Checks if the file is loaded correctly
         else {
